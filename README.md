@@ -1,17 +1,51 @@
-<h1 align="center">Hi 👋, I'm Hilmi Prastowo</h1>
-<h3 align="center">"An aspiring developer passionately dedicated to refining skills in full-stack development and diving deeper into the world of computer science. Continuously exploring new technologies, solving complex problems, and building innovative solutions to grow both personally and professionally."</h3>
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+<div>
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilmiprasstowo&label=Profile%20views&color=0e75b6&style=flat" alt="hilmiprasstowo" /> </p>
+- Name: **Reidho Satria** / **レイドー・サトリア**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- Residing in: **South Sumatra, Indonesia**
+
+- Field of Study: **Computer Science**
+
+- Proficient in: **GNU/Linux** and **FreeBSD**
+
+- Skilled in: **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
+
+- Highly experienced with: **Docker**, **Cloudflare**, **Vercel**, and **CI/CD**
+
+- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<br/>
+<br/>
+<img src="./img/Repo-elaina.png" width="488" />
+<br/>
+<br/>
+  
+- 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
+  The Ultimate Checked Proxy List - Update Every 20 Minutes
+- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
+  The Ultimate Advertisement List - Update Weekly
+- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
+  A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
+- 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
+  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
+  
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+<br/>
+<img src="./img/banner-elainaa.png" width="500" /><br/>
+<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&theme=darkhub" align="center"/>
+<br/><br/>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmiprasstowo&show_icons=true&locale=en&layout=compact" alt="hilmiprasstowo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilmiprasstowo&show_icons=true&locale=en" alt="hilmiprasstowo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilmiprasstowo&" alt="hilmiprasstowo" /></p>
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+</div>
