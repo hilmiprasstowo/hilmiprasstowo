@@ -33,7 +33,7 @@
 - 📙 [***hilmiprasstowo/coming soon***]() <br/>
  
 - 📒 [***hilmiprasstowo/coming soon***]() <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
+  I'm still a beginner so don't have high hopes :)
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
