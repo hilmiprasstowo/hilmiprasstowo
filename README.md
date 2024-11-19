@@ -33,7 +33,7 @@
 - 📙 [***hilmiprasstowo/coming soon***]() <br/>
  
 - 📒 [***hilmiprasstowo/coming soon***]() <br/>
-  I'm still a beginner so don't have high hopes :)
+ I'm still a beginner so don't have high hopes, but I have high ambitions to learn new things like languages ​​and frameworks
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
