@@ -28,7 +28,7 @@
   
 - 📗 [***hilmiprasstowo/basic programing***](https://github.com/hilmiprasstowo/Dasar-Pemrograman-C-) <br/>
   Basic programing language - Update everyday
-- 📘 [***hilmiprasstowo/coming soon***](https://github.com/hilmiprasstowo/shooter-game) <br/>
+- 📘 [***hilmiprasstowo/Game shooter***](https://github.com/hilmiprasstowo/shooter-game) <br/>
   Basic game shooter using Unity
 - 📙 [***hilmiprasstowo/coming soon***]() <br/>
  
